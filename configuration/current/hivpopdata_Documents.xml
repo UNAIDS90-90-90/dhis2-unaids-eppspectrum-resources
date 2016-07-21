@@ -4,21 +4,21 @@
 		<document name="3. UNAIDS HIV Pop Data Import Preparation Guide" created="2015-10-27T03:54:01.489+0000" lastUpdated="2015-10-27T04:02:15.303+0000" id="DzMCvOcUmYr">
 			<externalAccess>false</externalAccess>
 			<publicAccess>rw------</publicAccess>
-			<url>https://github.com/UNAIDS/dhis2-unaids-eppspectrum-resources/raw/master/documentation/Guides/current/UNAIDS_SPECTRUM_DHIS2_HIV_Pop_App_Preparation_Guide_EN.pdf</url>
+			<url>https://cdn.rawgit.com/UNAIDS/dhis2-unaids-eppspectrum-resources/master/documentation/Guides/current/DHIS2_HIV_Pop_App_Preparation_Guide_EN.pdf</url>
 			<external>true</external>
 			<attachment>false</attachment>
 		</document>
 		<document name="2. UNAIDS HIV Pop Data Post-Initiation Configuration Guide" created="2015-10-27T03:55:52.338+0000" lastUpdated="2015-10-27T03:58:32.362+0000" id="BPSWzuWElmq">
 			<externalAccess>false</externalAccess>
 			<publicAccess>r-------</publicAccess>
-			<url>hhttps://github.com/UNAIDS/dhis2-unaids-eppspectrum-resources/raw/master/documentation/Guides/current/UNAIDS_SPECTRUM_DHIS2_HIV_Pop_App_PostInitiation_Guide_EN.pdf</url>
+			<url>https://cdn.rawgit.com/UNAIDS/dhis2-unaids-eppspectrum-resources/master/documentation/Guides/current/DHIS2_HIV_Pop_App_PostInitiation_Guide_EN.pdf</url>
 			<external>true</external>
 			<attachment>false</attachment>
 		</document>
 		<document name="1. UNAIDS HIV Pop Data Admin Guide" created="2015-10-27T03:56:50.261+0000" lastUpdated="2015-10-27T03:58:12.377+0000" id="Gt4XH2nJdFs">
 			<externalAccess>false</externalAccess>
 			<publicAccess>r-------</publicAccess>
-			<url>https://github.com/UNAIDS/dhis2-unaids-eppspectrum-resources/raw/master/documentation/Guides/current/DHIS2_HIV_Pop_App_Admin_Guide_EN.pdf</url>
+			<url>https://cdn.rawgit.com/UNAIDS/dhis2-unaids-eppspectrum-resources/master/documentation/Guides/current/DHIS2_HIV_Pop_App_Admin_Guide_EN.pdf</url>
 			<external>true</external>
 			<attachment>false</attachment>
 		</document>
